@@ -132,7 +132,7 @@ body.dark-theme {
 .container {
   max-width: 968px;
   margin-left: 2rem;
-  margin-right: -2rem;
+  margin-right: -3rem;
 }
 
 .grid {
