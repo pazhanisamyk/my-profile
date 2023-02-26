@@ -131,8 +131,8 @@ body.dark-theme {
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
   max-width: 968px;
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+  margin-left: 2rem;
+  margin-right: -4rem;
 }
 
 .grid {
@@ -541,5 +541,10 @@ body.dark-theme {
 
   .footer__copy {
     margin: 4.5rem 0 2.5rem;
+  }
+  .newstyle{
+    align-self: center;
+    justify-content: center;
+    left: 100;
   }
 }
